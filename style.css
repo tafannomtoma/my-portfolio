@@ -38,6 +38,7 @@ h1{
     background-position: right;
 }
 .experence-area{
+    
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -64,5 +65,18 @@ h1{
     border-image-slice: 1;
 }
 footer{
+    text-align: center;
+}
+hr { 
+    display: block;
+    overflow: hidden; 
+     
+    border-width: 1px;
+    border-color: orange;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+.ex-mid{
     text-align: center;
 }
